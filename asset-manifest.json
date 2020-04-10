@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.77708614.chunk.css",
-    "main.js": "/my-app/static/js/main.21910a81.chunk.js",
-    "main.js.map": "/my-app/static/js/main.21910a81.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.57569933.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.57569933.js.map",
-    "static/js/2.f4f7c78a.chunk.js": "/my-app/static/js/2.f4f7c78a.chunk.js",
-    "static/js/2.f4f7c78a.chunk.js.map": "/my-app/static/js/2.f4f7c78a.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.9488ce153f60b9c1ffe61b9df65e9819.js": "/my-app/precache-manifest.9488ce153f60b9c1ffe61b9df65e9819.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.77708614.chunk.css.map": "/my-app/static/css/main.77708614.chunk.css.map",
-    "static/js/2.f4f7c78a.chunk.js.LICENSE.txt": "/my-app/static/js/2.f4f7c78a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/my-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/birthday-surprise/static/css/main.77708614.chunk.css",
+    "main.js": "/birthday-surprise/static/js/main.21656441.chunk.js",
+    "main.js.map": "/birthday-surprise/static/js/main.21656441.chunk.js.map",
+    "runtime-main.js": "/birthday-surprise/static/js/runtime-main.5b139bf9.js",
+    "runtime-main.js.map": "/birthday-surprise/static/js/runtime-main.5b139bf9.js.map",
+    "static/js/2.f4f7c78a.chunk.js": "/birthday-surprise/static/js/2.f4f7c78a.chunk.js",
+    "static/js/2.f4f7c78a.chunk.js.map": "/birthday-surprise/static/js/2.f4f7c78a.chunk.js.map",
+    "index.html": "/birthday-surprise/index.html",
+    "precache-manifest.7413f8902014bc2e7389bf8421ddec2e.js": "/birthday-surprise/precache-manifest.7413f8902014bc2e7389bf8421ddec2e.js",
+    "service-worker.js": "/birthday-surprise/service-worker.js",
+    "static/css/main.77708614.chunk.css.map": "/birthday-surprise/static/css/main.77708614.chunk.css.map",
+    "static/js/2.f4f7c78a.chunk.js.LICENSE.txt": "/birthday-surprise/static/js/2.f4f7c78a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/birthday-surprise/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.57569933.js",
+    "static/js/runtime-main.5b139bf9.js",
     "static/js/2.f4f7c78a.chunk.js",
     "static/css/main.77708614.chunk.css",
-    "static/js/main.21910a81.chunk.js"
+    "static/js/main.21656441.chunk.js"
   ]
 }
